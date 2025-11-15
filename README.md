@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Puzzle Solver
 
 A full-stack 8-puzzle solver application featuring multiple search algorithms (A*, BFS, DFS) with an interactive React frontend and Spring Boot backend. Solve puzzles manually, watch AI solutions, or upload custom images to create personalized puzzle challenges.
